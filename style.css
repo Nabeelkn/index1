@@ -1,0 +1,9 @@
+h1{
+    color: darkblue;
+}
+h3{
+    background-image: linear-gradient(red blue);
+}
+ul{
+    font-style: italic;
+}
